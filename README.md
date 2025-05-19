@@ -90,7 +90,3 @@ pip install streamlit streamlit-lottie requests
 Made with ❤️ by DLSN | © 2025
 
 ---
-
-## 📧 Feedback & Contributions
-
-Feel free to [open an issue](https://github.com/yourusername/bookbuddy/issues) or submit a pull request to improve BookBuddy!
