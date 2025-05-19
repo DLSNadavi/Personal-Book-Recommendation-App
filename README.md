@@ -16,12 +16,6 @@ BookBuddy is a simple, interactive Streamlit web app that helps users discover b
 
 ---
 
-## 🖥️ Demo
-
-![BookBuddy Screenshot](demo_screenshot.png) <!-- Add a screenshot of your UI here if available -->
-
----
-
 ## 🛠️ Installation
 
 1. **Clone the repository:**
